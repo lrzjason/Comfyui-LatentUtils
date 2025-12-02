@@ -1,6 +1,6 @@
 # Latent Frequency Enhancer for ComfyUI
 
-![Node Preview](preview.webp)  
+![Node Preview](demo.png)  
 *Example output showing mask preview (right) and enhanced image (left)*
 
 ## 🌟 Overview
@@ -10,6 +10,11 @@ This custom ComfyUI node performs **selective latent denoising and detail enhanc
 - Output a visual preview of the processing mask
 
 Ideal for refining AI-generated images while maintaining sharp features and eliminating graininess.
+
+Supports models:
+- Wan vae (Qwen, etc)
+- Flux vae (ZImageTurbo, Flux1.dev, etc)
+- Other models not tested
 
 ---
 
