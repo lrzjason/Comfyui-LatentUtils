@@ -1,7 +1,10 @@
 # Latent Frequency Enhancer for ComfyUI
 
-![Node Preview](demo.png)  
+![Effect Preview](demo.png)  
 *Example output showing mask preview (right) and enhanced image (left)*
+*high_freq_mult: 2 is a extreme value to show the difference (demo only).*
+
+![Node Preview](example_workflow.png)  
 
 ## 🌟 Overview
 This custom ComfyUI node performs **selective latent denoising and detail enhancement** using Fourier Transform (FFT) techniques. It intelligently separates image frequencies to:
