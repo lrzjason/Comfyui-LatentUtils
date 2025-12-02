@@ -1,7 +1,9 @@
-# Latent Frequency Enhancer for ComfyUI
+# Latent Utils for ComfyUI
+
 
 ![Effect Preview](demo.png)  
-*Example output showing mask preview (right) and enhanced image (left)*
+*Example output showing mask preview (right) and enhanced image (left)* 
+
 *high_freq_mult: 2 is a extreme value to show the difference (demo only).*
 
 ![Node Preview](example_workflow.png)  
