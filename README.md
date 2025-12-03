@@ -2,7 +2,7 @@
 
 
 ![Effect Preview](demo.png)  
-*Example output showing mask preview (right) and enhanced image (left)* 
+*Example output showing original (left) and enhanced image (right)* 
 
 *high_freq_mult: 2 is an extreme value to show the difference (demo only).*
 
