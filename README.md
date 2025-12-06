@@ -68,7 +68,6 @@ The **HFEPostProcessor** node applies high-frequency enhancement during the samp
 ---
 
 ![Qwen Preview](multi_steps_hfe_demo/qwen.png)  
-![ZImage Preview](multi_steps_hfe_demo/zimage.png)  
 
 ## 🎚️ Parameters Explained
 ### Latent Frequency Enhancer Node
